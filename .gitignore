@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+suslabAI/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
